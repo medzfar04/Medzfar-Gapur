@@ -1,6 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MedzfarGapur&show_icons=true)
-
-# Medzfar-Gapur
+# Hi, Medzfar Gapur
 <h1 align="center">👨‍💻 Medzfar Gapur</h1>
 <h3 align="center">Junior Penetration Tester | Ethical Hacker | Cybersecurity Enthusiast</h3>
 
