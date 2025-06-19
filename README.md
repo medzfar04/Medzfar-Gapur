@@ -1,4 +1,4 @@
-# Hi, Medzfar Gapur
+# Medzfar Gapur
 <h1 align="center">👨‍💻 Medzfar Gapur</h1>
 <h3 align="center">Junior Penetration Tester | Ethical Hacker | Cybersecurity Enthusiast</h3>
 
